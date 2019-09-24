@@ -1,0 +1,6 @@
+﻿Tangible,Type of Txn,Object,Region,Product Classification,Tax Classification Code,GA Update(Y/N),Unit Of Measure,Weight Unit,Dimension unit,Local currency Name,HP supplier codes (max = 10) 4 digits,delivering plants (max = 10) 4 digits,Buyer purch group,Primary Supplier(Y/N),Purchasing plant Plants(PIR),Currency name,PIR Purchasing Group
+Y,Create,Product ,North America,HW,A005,Y,EA,KG,MM,USD,1R00,"US62,US21,US51",C16,Y,"US21,US51",USD,C16
+y,Create,Product ,North America,HW,A005,Y,EA,KG,MM,USD,1R00,"US62,US21,US51",C16,Y,"US21,US51",USD,C16
+N,Create,Product ,North America,ES,C074,Y,,,,USD,1R00,US51,C16,Y,US51,USD,C16
+n,Create,Product ,North America,ES,C074,Y,,,,USD,1R00,US51,C16,Y,US51,USD,C16
+,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value,No Tangible value
